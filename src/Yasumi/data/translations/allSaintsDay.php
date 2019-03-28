@@ -18,6 +18,7 @@ return [
     'el_GR' => 'Άγιοι Πάντες',
     'en_US' => 'All Saints\' Day',
     'es_ES' => 'Día de todos los Santos',
+    'fil_PH' => 'Araw ng mga Santo',
     'fi_FI' => 'Pyhäinpäivä',
     'fr_BE' => 'La Toussaint',
     'fr_CH' => 'Toussaint',

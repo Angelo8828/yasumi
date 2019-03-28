@@ -22,6 +22,7 @@ return [
     'en_IE' => 'Easter Sunday',
     'en_US' => 'Easter Sunday',
     'et_EE' => 'Ülestõusmispühade 1. püha',
+    'fil_PH' => 'Pasko ng Pagkabuhay',
     'fi_FI' => 'Pääsiäispäivä',
     'fr_BE' => 'Pâques',
     'fr_CH' => 'Pâques',

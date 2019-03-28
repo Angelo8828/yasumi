@@ -28,6 +28,7 @@ return [
     'en_ZA' => 'New Year\'s Day',
     'es_ES' => 'Año Nuevo',
     'et_EE' => 'Uusaasta',
+    'fil_PH' => 'Bagong Taon',
     'fi_FI' => 'Uudenvuodenpäivä',
     'fr_BE' => 'Nouvel An',
     'fr_CH' => 'Nouvel An',

@@ -23,6 +23,7 @@ return [
     'en_ZA' => 'Workers\' Day',
     'es_ES' => 'Día del Trabajador',
     'et_EE' => 'Kevadpüha',
+    'fil_PH' => 'Araw ng Manggagawa',
     'fi_FI' => 'Vappu',
     'fr_BE' => 'Fête du Travail',
     'fr_CH' => 'Fête du Travail',

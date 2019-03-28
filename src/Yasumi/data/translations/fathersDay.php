@@ -15,6 +15,7 @@ return [
     'de_CH' => 'Vatertag',
     'el_GR' => 'Γιορτή του πατέρα',
     'en_US' => 'Father\'s Day',
+    'fil_PH' => 'Araw ng mga Ama',
     'fr_BE' => 'Fête des pères',
     'fr_CH' => 'Fête des pères',
     'it_CH' => 'Festa del papà',
